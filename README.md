@@ -1,5 +1,8 @@
 # TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents
 
+> **Инструкция для Windows / OpenCode 2.x (PowerShell):** [установка, запуск, проверка, micro-skills и диагностика — на русском](docs/WINDOWS_OPENCODE_RU.md).
+
+
 <p align="center">
   Aaron J. Li<sup>1</sup>,
   Weijia Xu<sup>2</sup>,
